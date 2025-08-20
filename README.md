@@ -36,6 +36,7 @@ This repository is designed to help MCA first-year students master the essential
 ## Course Structure
 
 ### Module 1: Introduction to Python, Input/Output and Operators _(7 Periods)_
+<img src="module_1/Module 1_ Topics.png" alt="Module 1 Image" width="600">
 
 - [Features and history of Python](module_1/module1_features_and_history_of_python.md)
 - [Installation & IDEs (Jupyter, VS Code)](module_1/module1_installation_and_ides.md)
