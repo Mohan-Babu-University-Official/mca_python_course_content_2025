@@ -1,5 +1,11 @@
 # MCA First-Year Python Essentials
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Mohan-Babu-University-Official/mca_python_course_content_2025?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Mohan-Babu-University-Official/mca_python_course_content_2025?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Mohan-Babu-University-Official/mca_python_course_content_2025?style=flat-square)
+![License](https://img.shields.io/badge/license-Educational-blue?style=flat-square)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Mohan-Babu-University-Official/mca_python_course_content_2025?style=social)
 Welcome to the official repository for the **MCA First-Year Python Programming** course at Mohan Babu University. This repository contains comprehensive notes, code samples, and resources for students enrolled in the 2025 batch, curated by [Zaid Kamil](https://github.com/zaid-kamil).
 
 ---
@@ -30,16 +36,16 @@ This repository is designed to help MCA first-year students master the essential
 
 ### Module 1: Introduction to Python, Input/Output and Operators _(7 Periods)_
 
-- Features and history of Python
-- Installation & IDEs (Jupyter, VS Code)
-- Interpreter vs Compiler
-- Using `input()` and `print()`
-- Formatted strings (`f-strings`, `format()`)
-- Data types: `int`, `float`, `str`, `bool`
-- Dynamic typing & type conversions (explicit, implicit)
-- Operator types: arithmetic, relational, logical, bitwise, assignment, membership, identity
-- Expression evaluation, precedence & associativity
-- Comments: single-line & multi-line
+- [Features and history of Python](module_1/module1_features_and_history_of_python.md)
+- [Installation & IDEs (Jupyter, VS Code)](module_1/module1_installation_and_ides.md)
+- [Interpreter vs Compiler](module_1/module1_interpreter_vs_compiler.md)
+- [Using input() and print()](module_1/module1_input_output_and_data_types.md#1-using-input-and-print)
+- [Formatted strings (f-strings, format)](module_1/module1_input_output_and_data_types.md#2-formatted-strings)
+- [Data types: int, float, str, bool](module1_input_output_and_data_types.md#3-data-types-int-float-str-bool)
+- [Dynamic typing & type conversions (explicit, implicit)](module1_input_output_and_data_types.md#4-extra-tips-for-students)
+- [Operator types: arithmetic, relational, logical, bitwise, assignment, membership, identity](module_1/module1_operators_expressions_comments.md#1-operator-types-in-python)
+- [Expression evaluation, precedence & associativity](module_1/module1_operators_expressions_comments.md#2-expression-evaluation-precedence--associativity)
+- [Comments: single-line & multi-line](module_1/module1_operators_expressions_comments.md#3-comments-in-python)
 
 ---
 
