@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/license-Educational-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Mohan-Babu-University-Official/mca_python_course_content_2025?style=social)
+
 Welcome to the official repository for the **MCA First-Year Python Programming** course at Mohan Babu University. This repository contains comprehensive notes, code samples, and resources for students enrolled in the 2025 batch, curated by [Zaid Kamil](https://github.com/zaid-kamil).
 
 ---
