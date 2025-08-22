@@ -1,0 +1,16 @@
+.. _module1_interpreter_vs_compiler:
+
+Module 1: Interpreter vs Compiler
+=================================
+
+.. image:: ../module_1/Compiler vs Interpreter Key Differences - visual selection.png
+   :alt: Compiler vs Interpreter Key Differences
+   :width: 600
+
+Interpreter vs Compiler
+----------------------
+
+- Interpreter executes code line by line (e.g., Python)
+- Compiler translates entire code to machine language before execution (e.g., C, C++)
+- Interpreted languages are easier for debugging and rapid prototyping
+- Compiled languages generally offer better performance

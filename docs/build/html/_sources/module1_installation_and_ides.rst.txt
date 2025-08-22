@@ -1,0 +1,17 @@
+.. _module1_installation_and_ides:
+
+Module 1: Installation & IDEs
+=============================
+
+.. image:: ../module_1/Module 1_ Setting Up Your Python Development Environment - visual selection.png
+   :alt: Setting Up Python Development Environment
+   :width: 600
+
+Installation & IDEs (Jupyter, VS Code)
+--------------------------------------
+
+- Download Python from the official website (python.org)
+- Install using the installer for your OS
+- Set up an IDE like Jupyter Notebook or Visual Studio Code for development
+- Verify installation using `python --version` in the terminal
+- Explore extensions and plugins for enhanced productivity

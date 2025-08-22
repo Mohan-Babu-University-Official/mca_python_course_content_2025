@@ -1,0 +1,21 @@
+.. _module1_operators_expressions_comments:
+
+Module 1: Operators, Expressions, and Comments
+==============================================
+
+Operators
+---------
+
+- Arithmetic, relational, logical, bitwise, assignment, membership, identity
+
+Expressions
+-----------
+
+- Expression evaluation
+- Precedence & associativity
+
+Comments
+--------
+
+- Single-line: `# comment`
+- Multi-line: triple quotes or multiple `#`

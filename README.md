@@ -13,17 +13,19 @@ Welcome to the official repository for the **MCA First-Year Python Programming**
 
 ## 📚 Table of Contents
 
-1. [Course Overview](#course-overview)
-2. [Course Structure](#course-structure)
-    - [Module 1: Introduction to Python, Input/Output and Operators](#module-1-introduction-to-python-inputoutput-and-operators)
-    - [Module 2: Decision Making and Looping](#module-2-decision-making-and-looping)
-    - [Module 3: Data Structures, Strings, Functions & Recursion](#module-3-data-structures-strings-functions--recursion)
-    - [Module 4: Object-Oriented Programming in Python](#module-4-object-oriented-programming-in-python)
-    - [Module 5: Data Visualization & Web Development](#module-5-data-visualization--web-development)
-3. [Course Outcomes](#course-outcomes)
-4. [How to Use This Repository](#how-to-use-this-repository)
-5. [Contributing](#contributing)
-6. [License](#license)
+- [MCA First-Year Python Essentials](#mca-first-year-python-essentials)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [Course Overview](#course-overview)
+  - [Course Structure](#course-structure)
+    - [Module 1: Introduction to Python, Input/Output and Operators _(7 Periods)_](#module-1-introduction-to-python-inputoutput-and-operators-7-periods)
+    - [Module 2: Decision Making and Looping _(7 Periods)_](#module-2-decision-making-and-looping-7-periods)
+    - [Module 3: Data Structures, Strings, Functions \& Recursion _(10 Periods)_](#module-3-data-structures-strings-functions--recursion-10-periods)
+    - [Module 4: Object-Oriented Programming in Python _(7 Periods)_](#module-4-object-oriented-programming-in-python-7-periods)
+    - [Module 5: Data Visualization \& Web Development _(14 Periods)_](#module-5-data-visualization--web-development-14-periods)
+  - [Course Outcomes](#course-outcomes)
+  - [How to Use This Repository](#how-to-use-this-repository)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ---
 
@@ -48,7 +50,8 @@ This repository is designed to help MCA first-year students master the essential
 - [Operator types: arithmetic, relational, logical, bitwise, assignment, membership, identity](module_1/module1_operators_expressions_comments.md#1-operator-types-in-python)
 - [Expression evaluation, precedence & associativity](module_1/module1_operators_expressions_comments.md#2-expression-evaluation-precedence--associativity)
 - [Comments: single-line & multi-line](module_1/module1_operators_expressions_comments.md#3-comments-in-python)
-
+---
+- [Assignments](assignments/module_1_1.md)
 ---
 
 ### Module 2: Decision Making and Looping _(7 Periods)_

@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore Sphinx documentation source
+docs/source/
+
+# Ignore Makefile
+Makefile
+
+# Ignore Windows batch files
+make.bat

@@ -1,0 +1,18 @@
+.. _module1_input_output_and_data_types:
+
+Module 1: Input/Output and Data Types
+=====================================
+
+Input/Output
+------------
+
+- Use `input()` to get user input
+- Use `print()` to display output
+- Formatted strings: f-strings, `format()`
+
+Data Types
+----------
+
+- int, float, str, bool
+- Dynamic typing
+- Type conversions (explicit, implicit)

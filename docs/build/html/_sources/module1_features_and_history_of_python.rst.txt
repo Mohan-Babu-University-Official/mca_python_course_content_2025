@@ -1,0 +1,19 @@
+.. _module1_features_and_history_of_python:
+
+Module 1: Features and History of Python
+========================================
+
+.. image:: ../module_1/Module 1_ Topics.png
+   :alt: Module 1 Topics
+   :width: 600
+
+Features and History of Python
+-----------------------------
+
+Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Its extensive standard library and active community make it a popular choice for beginners and professionals alike.
+
+- Easy-to-read syntax
+- Large standard library
+- Cross-platform compatibility
+- Open-source and community-driven
+- Used in web development, data science, automation, and more
