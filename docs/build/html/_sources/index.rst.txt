@@ -1,17 +1,7 @@
-.. MBU python course content documentation master file, created by
-   sphinx-quickstart on Thu Aug 21 09:57:48 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-
 MBU MCA Python Course Content Documentation
 ==========================================
 
 Welcome to the official documentation for the **MCA First-Year Python Programming** course at Mohan Babu University. This documentation is based on the course content curated by Zaid Kamil for the 2025 batch.
-
-.. contents:: Table of Contents
-   :depth: 2
-   :local:
 
 Course Overview
 ---------------
