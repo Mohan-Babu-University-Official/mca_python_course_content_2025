@@ -7,136 +7,18 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Mohan-Babu-University-Official/mca_python_course_content_2025?style=social)
 
-Welcome to the official repository for the **MCA First-Year Python Programming** course at Mohan Babu University. This repository contains comprehensive notes, code samples, and resources for students enrolled in the 2025 batch, curated by [Zaid Kamil](https://github.com/zaid-kamil).
-
---- read the docs
-
-
----
+Welcome to the official repository for the **MCA First-Year Python Programming** course at Mohan Babu University. This repository contains comprehensive notes, code samples, and resources for students.
 
 ## 📚 Table of Contents
 
 - [MCA First-Year Python Essentials](#mca-first-year-python-essentials)
   - [📚 Table of Contents](#-table-of-contents)
-  - [Course Overview](#course-overview)
-  - [Course Structure](#course-structure)
-    - [Module 1: Introduction to Python, Input/Output and Operators _(7 Periods)_](#module-1-introduction-to-python-inputoutput-and-operators-7-periods)
-    - [Module 2: Decision Making and Looping _(7 Periods)_](#module-2-decision-making-and-looping-7-periods)
-    - [Module 3: Data Structures, Strings, Functions \& Recursion _(10 Periods)_](#module-3-data-structures-strings-functions--recursion-10-periods)
-    - [Module 4: Object-Oriented Programming in Python _(7 Periods)_](#module-4-object-oriented-programming-in-python-7-periods)
-    - [Module 5: Data Visualization \& Web Development _(14 Periods)_](#module-5-data-visualization--web-development-14-periods)
-  - [Course Outcomes](#course-outcomes)
-  - [How to Use This Repository](#how-to-use-this-repository)
-  - [Contributing](#contributing)
-  - [License](#license)
+  - [ Read the Documentation](#-read-the-documentation)
 
----
 
-## Course Overview
-
-This repository is designed to help MCA first-year students master the essentials of Python programming. The course is structured to provide both conceptual clarity and practical exposure, with a blend of theoretical notes, code snippets, assignments, and mini projects.
-
----
-
-## Course Structure
-
-### Module 1: Introduction to Python, Input/Output and Operators _(7 Periods)_
-<img src="module_1/Module 1_ Topics.png" alt="Module 1 Image" width="600">
-
-- [Features and history of Python](module_1/module1_features_and_history_of_python.md)
-- [Installation & IDEs (Jupyter, VS Code)](module_1/module1_installation_and_ides.md)
-- [Interpreter vs Compiler](module_1/module1_interpreter_vs_compiler.md)
-- [Using input() and print()](module_1/module1_input_output_and_data_types.md#1-using-input-and-print)
-- [Formatted strings (f-strings, format)](module_1/module1_input_output_and_data_types.md#2-formatted-strings)
-- [Data types: int, float, str, bool](module1_input_output_and_data_types.md#3-data-types-int-float-str-bool)
-- [Dynamic typing & type conversions (explicit, implicit)](module1_input_output_and_data_types.md#4-extra-tips-for-students)
-- [Operator types: arithmetic, relational, logical, bitwise, assignment, membership, identity](module_1/module1_operators_expressions_comments.md#1-operator-types-in-python)
-- [Expression evaluation, precedence & associativity](module_1/module1_operators_expressions_comments.md#2-expression-evaluation-precedence--associativity)
-- [Comments: single-line & multi-line](module_1/module1_operators_expressions_comments.md#3-comments-in-python)
----
-- [Assignments](assignments/module_1_1.md)
----
-
-### Module 2: Decision Making and Looping _(7 Periods)_
-
-- `if`, `if-else`, `elif`, nested conditions
-- Loops: `for`, `while`, `break`, `continue`, `pass`
-- Functions: `enumerate()`, `zip()`
-- `else` with loops
-- List and dictionary comprehensions
-- Combining loops with conditionals
-- Basic exception handling: `try-except`
-
----
-
-### Module 3: Data Structures, Strings, Functions & Recursion _(10 Periods)_
-
-- Strings: creation, indexing, slicing, immutability
-- String methods: `upper()`, `lower()`, `find()`, `replace()`, `split()`, `join()`
-- Data structures: lists, tuples, dictionaries, sets
-- Function definition, parameters, return values, default/keyword arguments
-- Recursion (examples: factorial, Fibonacci)
-- Function integration with strings & collections
-- Lambda functions, `map()`, `filter()`
-
----
-
-### Module 4: Object-Oriented Programming in Python _(7 Periods)_
-
-- Classes and objects
-- Instance variables and methods
-- Constructors (`__init__`) & destructors
-- Encapsulation (public, protected, private)
-- Inheritance (types, method overriding)
-- Polymorphism
-- Abstraction (using `abc` module)
-
----
-
-### Module 5: Data Visualization & Web Development _(14 Periods)_
-
-- Importance & purpose of data visualization
-- NumPy, Pandas, Matplotlib: line graphs, bar charts, histograms, scatter plots
-- Flask: overview, setup, app structure, routing
-- Template rendering with Jinja2
-- Form handling: GET/POST methods
-- Basic CRUD operations
-- HTML/CSS integration
-- Mini project implementation
-
----
-
-## Course Outcomes
-
-After completion of this course, students will be able to:
-
-- Demonstrate knowledge of Python constructs, sequences, sets, and dictionaries to solve computational problems.
-- Apply regular expressions for pattern searching in strings.
-- Develop and use Python modules to solve problems.
-- Apply file operations in Python for file processing.
-- Design applications using OOP features: encapsulation, inheritance, polymorphism, and exception handling.
-- Work independently to solve problems and communicate effectively.
-
----
-
-## How to Use This Repository
-
-- Each module will have its dedicated folder with lecture notes, code samples, and exercises.
-- Access the notes in markdown format for easy reading and sharing.
-- Refer to the code samples and mini projects for hands-on practice.
-
----
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
----
-
-## License
+## [ Read the Documentation](https://mohan-babu-university-official.github.io/mca_python_course_content_2025/)
+Access the full course documentation, including detailed notes and examples, at this [link🔗](https://mohan-babu-university-official.github.io/mca_python_course_content_2025/).
 
 This repository is for educational purposes at Mohan Babu University. Please contact the maintainer for reuse or distribution outside the university.
-
----
 
 > _Curated by [Zaid Kamil](https://github.com/zaid-kamil) for Mohan Babu University, 2025._
