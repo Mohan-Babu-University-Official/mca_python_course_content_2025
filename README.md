@@ -9,12 +9,6 @@
 
 Welcome to the official repository for the **MCA First-Year Python Programming** course at Mohan Babu University. This repository contains comprehensive notes, code samples, and resources for students.
 
-## 📚 Table of Contents
-
-- [MCA First-Year Python Essentials](#mca-first-year-python-essentials)
-  - [📚 Table of Contents](#-table-of-contents)
-  - [ Read the Documentation](#-read-the-documentation)
-
 
 ## [ Read the Documentation](https://mohan-babu-university-official.github.io/mca_python_course_content_2025/)
 Access the full course documentation, including detailed notes and examples, at this [link🔗](https://mohan-babu-university-official.github.io/mca_python_course_content_2025/).
