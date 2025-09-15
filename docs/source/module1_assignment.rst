@@ -3,13 +3,6 @@
 Python Assignment Questions: Variables, Operators, Datatypes
 ===============================================================
 
-Python Assignment Questions: Variables, Operators, Datatypes**10. Greeting Message**
-
-    Take a name as input and print "Hello, <name>".
-
-    *Hint:* Use f-string formatting like `f"Hello, {name}"` or string concatenation.Input & Output
-===========================================================================
-
 .. note::
    Do not use any conditional statements (`if`, `elif`, `else`) or loops in your solutions.
 
