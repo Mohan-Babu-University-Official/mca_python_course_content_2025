@@ -1,4 +1,6 @@
-Module 1: Interpreter vs Compiler
+.. _module1_interpreter_vs_compiler:
+
+Interpreter vs Compiler
 =================================
 
 1. Introduction

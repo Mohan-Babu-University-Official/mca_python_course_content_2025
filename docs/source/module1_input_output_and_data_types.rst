@@ -1,6 +1,6 @@
 .. _module1_input_output_and_data_types:
 
-Module 1: Input/Output, Formatted Strings, and Data Types
+Input/Output, Formatted Strings, and Data Types
 =========================================================
 
 1. Using ``input()`` and ``print()``

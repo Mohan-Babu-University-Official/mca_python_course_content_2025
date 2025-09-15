@@ -1,4 +1,6 @@
-Module 1: Installation & IDEs (VS Code, Git, Python, Everything Search)
+.. _module1_installation_and_ides:
+
+Installation & IDEs
 =======================================================================
 
 1. Introduction

@@ -1,6 +1,6 @@
 .. _module1_features_and_history_of_python:
 
-Module 1: Features and History of Python
+Features and History of Python
 ========================================
 
 Introduction

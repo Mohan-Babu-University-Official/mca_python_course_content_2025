@@ -1,3 +1,8 @@
+.. _module1_assignment:
+
+Python Assignment Questions: Variables, Operators, Datatypes
+===============================================================
+
 Python Assignment Questions: Variables, Operators, Datatypes**10. Greeting Message**
 
     Take a name as input and print "Hello, <name>".
@@ -62,7 +67,7 @@ Python Assignment Questions: Variables, Operators, Datatypes**10. Greeting Messa
 
    *Hint:* Use the `**` operator with exponent 2 or multiply the number by itself.
 
-10. **Greeting Message**
+1.  **Greeting Message**
     Take a name as input and print "Hello, <name>".
 
 **11. String Concatenation**

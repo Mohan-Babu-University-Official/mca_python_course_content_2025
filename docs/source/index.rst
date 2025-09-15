@@ -4,6 +4,7 @@ MBU MCA Python Course Content Documentation
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
 
    module1_features_and_history_of_python
    module1_installation_and_ides
@@ -11,6 +12,14 @@ MBU MCA Python Course Content Documentation
    module1_input_output_and_data_types
    module1_operators_expressions_comments
    module1_assignment
+   module2_decision_making
+   module2_looping
+   module2_functions_enumerate_zip
+   module2_else_with_loops
+   module2_comprehensions
+   module2_combining_loops_conditionals
+   module2_exception_handling
+   module2_assignment
 
 Welcome to the official documentation for the **MCA First-Year Python Programming** course at Mohan Babu University. This documentation is based on the course content curated by Zaid Kamil for the 2025 batch.
 
@@ -115,6 +124,18 @@ Module 1 Navigation
 - :doc:`Input/Output and Data Types <module1_input_output_and_data_types>`
 - :doc:`Operators, Expressions, and Comments <module1_operators_expressions_comments>`
 - :doc:`Assignment Questions <module1_assignment>`
+
+Module 2 Navigation
+-------------------
+
+- :doc:`Decision Making <module2_decision_making>`
+- :doc:`Looping <module2_looping>`
+- :doc:`Functions: enumerate() and zip() <module2_functions_enumerate_zip>`
+- :doc:`else with Loops <module2_else_with_loops>`
+- :doc:`List and Dictionary Comprehensions <module2_comprehensions>`
+- :doc:`Combining Loops with Conditionals <module2_combining_loops_conditionals>`
+- :doc:`Exception Handling <module2_exception_handling>`
+- :doc:`Assignment Questions <module2_assignment>`
 
 
 *Curated by Zaid Kamil for Mohan Babu University, 2025.*

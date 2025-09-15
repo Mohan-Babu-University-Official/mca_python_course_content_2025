@@ -1,4 +1,6 @@
-Module 1: Operators, Expression Evaluation, and Comments
+.. _module1_operators_expressions_comments:
+
+Operators, Expression Evaluation, and Comments
 ========================================================
 
 1. Operator Types in Python
