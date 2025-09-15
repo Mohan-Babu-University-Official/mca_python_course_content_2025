@@ -32,7 +32,7 @@ Course Structure
 
 **Module 1: Introduction to Python, Input/Output and Operators (7 Periods)**
 
-.. image:: _static/module1_Topics.png
+.. image:: _static/module1_topics.png
    :alt: Module 1 Topics
    :width: 600
 
