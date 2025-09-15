@@ -9,6 +9,9 @@
 
 Welcome to the official repository for the **MCA First-Year Python Programming** course at Mohan Babu University. This repository contains comprehensive notes, code samples, and resources for students enrolled in the 2025 batch, curated by [Zaid Kamil](https://github.com/zaid-kamil).
 
+--- read the docs
+
+
 ---
 
 ## 📚 Table of Contents

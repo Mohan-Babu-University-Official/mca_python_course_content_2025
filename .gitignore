@@ -2,7 +2,7 @@
 .venv/
 
 # Ignore Sphinx documentation source
-docs/source/
+docs/build/
 
 # Ignore Makefile
 Makefile
